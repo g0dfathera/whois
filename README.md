@@ -1,5 +1,5 @@
 # whois.py
- App for whois lookup with Linux tool - whois.
+ App for whois lookup with Linux tool - whois. (without API key)
 
 # whois-api.py
  App for whois lookup with API.
